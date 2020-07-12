@@ -9,7 +9,9 @@
     \ .'-. \\   .-'_. /
      '._' '.\\/.-'_.'
         '--``\('--'
-        snd   \\
+              \\
               `\\,
    for c.a.m.   \|
 ```
+
+Adapted from https://www.asciiart.eu/plants/roses
