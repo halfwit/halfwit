@@ -16,6 +16,6 @@
    Adapted from https://www.asciiart.eu/plants/roses
 ```
 
-[![halfwit's commit stats](https://github-readme-stats.vercel.app/api?username=halfwit&include_all_commits=true&custom_title=halfwit)](https://github.com/halfwit)
+[![halfwit's commit stats](https://github-readme-stats.vercel.app/api?username=halfwit&include_all_commits=true&custom_title=stats)](https://github.com/halfwit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halfwit&layout=compact&theme=default&hide=cmake,makefile,smarty)](https://github.com/halfwit)
