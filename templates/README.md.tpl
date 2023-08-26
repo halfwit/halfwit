@@ -39,8 +39,8 @@
 
 #### 💬 Feedback
 
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
-and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
+Hey, if you end up trying out any of my projects, I'd be thrilled to hear from you! Feel free to share what you liked/disliked, and if there's anything that could be better.
+I prefer to use the Issue feature on github, but I also don't mind reaching out in another way.
 
 #### 📫 How to reach me
 - @: therealhalfwit
