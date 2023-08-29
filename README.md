@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/9hkd](https://github.com/halfwit/9hkd) (1 day ago)
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 day ago)
+- [halfwit/9hkd](https://github.com/halfwit/9hkd) (2 days ago)
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (2 days ago)
 - [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (1 month ago)
 - [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts (1 month ago)
 - [altid/ircfs](https://github.com/altid/ircfs) - Altid service to connect to IRC chat networks (2 months ago)
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent stars
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 days ago)
 
 #### 💬 Feedback
 
