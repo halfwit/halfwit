@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 day ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (3 days ago)
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 days ago)
 - [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (1 month ago)
 - [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts (1 month ago)
 - [altid/ircfs](https://github.com/altid/ircfs) - Altid service to connect to IRC chat networks (2 months ago)
@@ -35,11 +35,11 @@
 
 #### 📜 My recent blog posts
 
+- [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (1 day ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (1 month ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
 - [Altid](https://halfwit.github.io/2019/07/02/altid.html) (4 years ago)
 - [Bin Packing](https://halfwit.github.io/2017/09/21/binpacking.html) (6 years ago)
-- [Desk Build Log](https://halfwit.github.io/2017/07/30/deskblog.html) (6 years ago)
 
 #### ⭐ Recent stars
 
