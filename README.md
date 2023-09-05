@@ -35,11 +35,11 @@
 
 #### 📜 My recent blog posts
 
+- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (1 day ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (1 week ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (1 month ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
 - [Altid](https://halfwit.github.io/2019/07/02/altid.html) (4 years ago)
-- [Bin Packing](https://halfwit.github.io/2017/09/21/binpacking.html) (6 years ago)
 
 #### ⭐ Recent stars
 
