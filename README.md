@@ -22,7 +22,7 @@
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 week ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (2 weeks ago)
 - [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (1 month ago)
-- [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts (1 month ago)
+- [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts (2 months ago)
 - [altid/ircfs](https://github.com/altid/ircfs) - Altid service to connect to IRC chat networks (2 months ago)
 
 #### 🌱 My latest personal projects
@@ -47,7 +47,7 @@
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 weeks ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 weeks ago)
 
 #### 💬 Feedback
 
