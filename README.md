@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (2 weeks ago)
+- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (3 weeks ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (3 weeks ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (2 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
@@ -47,7 +47,7 @@
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 weeks ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 month ago)
 
 #### 💬 Feedback
 
