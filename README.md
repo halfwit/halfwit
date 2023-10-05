@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (4 weeks ago)
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 month ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (1 month ago)
 - [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (2 months ago)
 - [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts (2 months ago)
