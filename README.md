@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (1 day ago)
-- [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (5 days ago)
+- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (2 days ago)
+- [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (6 days ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 month ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (1 month ago)
 - [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (2 months ago)
