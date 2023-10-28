@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (4 days ago)
+- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (5 days ago)
 - [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (1 week ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 month ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (2 months ago)
@@ -36,7 +36,7 @@
 #### 📜 My recent blog posts
 
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (1 month ago)
-- [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (1 month ago)
+- [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (2 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (3 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
 - [Altid](https://halfwit.github.io/2019/07/02/altid.html) (4 years ago)
