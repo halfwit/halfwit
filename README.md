@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (4 days ago)
-- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (1 week ago)
-- [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (2 weeks ago)
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (5 days ago)
+- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (2 weeks ago)
+- [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (3 weeks ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (2 months ago)
 - [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (3 months ago)
 
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (4 days ago)
+- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (5 days ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (2 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (2 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (3 months ago)
