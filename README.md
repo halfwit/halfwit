@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (1 day ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 week ago)
 - [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (2 weeks ago)
 - [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (3 weeks ago)
 - [halfwit/9hkd](https://github.com/halfwit/9hkd) (2 months ago)
-- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (3 months ago)
 
 #### 🌱 My latest personal projects
 
