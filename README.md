@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (1 day ago)
-- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 days ago)
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 week ago)
+- [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (2 days ago)
+- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (4 days ago)
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (2 weeks ago)
 - [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (3 weeks ago)
-- [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (4 weeks ago)
+- [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (1 month ago)
 
 #### 🌱 My latest personal projects
 
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (1 week ago)
+- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (2 weeks ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (2 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (2 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (3 months ago)
