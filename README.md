@@ -20,7 +20,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (1 week ago)
-- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (1 week ago)
+- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (2 weeks ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 weeks ago)
 - [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (1 month ago)
 - [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (1 month ago)
@@ -43,10 +43,10 @@
 
 #### ⭐ Recent stars
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 months ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 months ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 months ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 months ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 months ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 months ago)
 
 #### 💬 Feedback
