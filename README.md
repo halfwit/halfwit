@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (2 weeks ago)
+- [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 weeks ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 weeks ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 month ago)
 - [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (1 month ago)
