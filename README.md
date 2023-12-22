@@ -22,7 +22,7 @@
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (1 month ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (1 month ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 month ago)
-- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (1 month ago)
+- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (2 months ago)
 - [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (2 months ago)
 
 #### 🌱 My latest personal projects
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (today)
+- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 months ago)
