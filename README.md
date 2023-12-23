@@ -38,12 +38,12 @@
 - [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (1 month ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (3 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (3 months ago)
-- [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (4 months ago)
+- [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (5 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
 
 #### ⭐ Recent stars
 
-- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 day ago)
+- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 months ago)
