@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (6 days ago)
+- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 months ago)
