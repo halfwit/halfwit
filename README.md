@@ -21,7 +21,7 @@
 
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (1 month ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (1 month ago)
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (1 month ago)
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (2 months ago)
 - [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (2 months ago)
 - [all-together-surrogacy/.github](https://github.com/all-together-surrogacy/.github) - All Together Surrogacy (2 months ago)
 
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (1 month ago)
+- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (2 months ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (3 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (4 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (5 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (today)
+- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (1 day ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 months ago)
