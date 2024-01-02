@@ -36,14 +36,14 @@
 #### 📜 My recent blog posts
 
 - [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (2 months ago)
-- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (3 months ago)
+- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (4 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (4 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (5 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
 
 #### ⭐ Recent stars
 
-- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (2 days ago)
+- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (3 days ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 months ago)
