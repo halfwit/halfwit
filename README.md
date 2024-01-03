@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (3 days ago)
+- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (4 days ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 months ago)
