@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (1 day ago)
+- [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (2 days ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (2 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (2 months ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (2 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (4 weeks ago)
+- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (1 month ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (1 month ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (5 months ago)
