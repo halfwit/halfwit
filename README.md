@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/9](https://github.com/altid/9) - 9 client (5 days ago)
+- [altid/9](https://github.com/altid/9) - 9 client (6 days ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 months ago)
