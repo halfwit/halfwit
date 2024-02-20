@@ -23,7 +23,7 @@
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 months ago)
-- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (3 months ago)
+- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (4 months ago)
 
 #### 🌱 My latest personal projects
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (today)
+- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (1 day ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (1 month ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 months ago)
