@@ -19,17 +19,17 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (today)
 - [altid/9](https://github.com/altid/9) - 9 client (1 week ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 months ago)
-- [halfwit/registry](https://github.com/halfwit/registry) - Inferno&#39;s registry, done in a more plan9-like manner (4 months ago)
 
 #### 🌱 My latest personal projects
 
 - [halfwit/9hkd](https://github.com/halfwit/9hkd)
 - [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts
-- [halfwit/x9utils](https://github.com/halfwit/x9utils) - Forked from git.sr.ht/~moody/tlsclient, with my own work on top.
+- [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik
 - [halfwit/9menu](https://github.com/halfwit/9menu)
 - [halfwit/hammerspoon](https://github.com/halfwit/hammerspoon)
 
