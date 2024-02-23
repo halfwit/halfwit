@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (2 days ago)
-- [altid/9](https://github.com/altid/9) - 9 client (1 week ago)
+- [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (3 days ago)
+- [altid/9](https://github.com/altid/9) - 9 client (2 weeks ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
 - [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 months ago)
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent stars
 
-- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (3 days ago)
+- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (4 days ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (1 month ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 months ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 months ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (5 months ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 months ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (6 months ago)
 
 #### 💬 Feedback
 
