@@ -44,7 +44,7 @@
 #### ⭐ Recent stars
 
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (1 week ago)
-- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (1 month ago)
+- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (2 months ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (6 months ago)
