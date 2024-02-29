@@ -23,7 +23,7 @@
 - [altid/9](https://github.com/altid/9) - 9 client (2 weeks ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (3 months ago)
+- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (4 months ago)
 
 #### 🌱 My latest personal projects
 
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (3 months ago)
+- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (4 months ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (5 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (6 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (7 months ago)
