@@ -19,19 +19,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (today)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (1 week ago)
 - [altid/9](https://github.com/altid/9) - 9 client (3 weeks ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
 - [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
-- [halfwit/halfwit.github.io](https://github.com/halfwit/halfwit.github.io) - Development blog (4 months ago)
 
 #### 🌱 My latest personal projects
 
+- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix`
 - [halfwit/9hkd](https://github.com/halfwit/9hkd)
 - [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik
 - [halfwit/9menu](https://github.com/halfwit/9menu)
-- [halfwit/hammerspoon](https://github.com/halfwit/hammerspoon)
 
 #### 📜 My recent blog posts
 
