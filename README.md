@@ -36,7 +36,7 @@
 #### 📜 My recent blog posts
 
 - [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (4 months ago)
-- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (5 months ago)
+- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (6 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (6 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (7 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
