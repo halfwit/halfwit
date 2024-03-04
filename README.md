@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (1 day ago)
+- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (2 days ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (1 week ago)
 - [altid/9](https://github.com/altid/9) - 9 client (3 weeks ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (1 week ago)
+- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (2 weeks ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (2 months ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 months ago)
