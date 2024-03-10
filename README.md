@@ -21,9 +21,9 @@
 
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (1 week ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (2 weeks ago)
-- [altid/9](https://github.com/altid/9) - 9 client (4 weeks ago)
+- [altid/9](https://github.com/altid/9) - 9 client (1 month ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (3 months ago)
-- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (3 months ago)
+- [altid/client](https://github.com/altid/client) - golang library and example client for Altid clients (4 months ago)
 
 #### 🌱 My latest personal projects
 
