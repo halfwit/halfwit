@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (1 week ago)
+- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (2 weeks ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (3 weeks ago)
 - [altid/9](https://github.com/altid/9) - 9 client (1 month ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (4 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (4 days ago)
+- [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (5 days ago)
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (3 weeks ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (2 months ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 months ago)
