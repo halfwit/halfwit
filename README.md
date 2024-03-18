@@ -43,8 +43,8 @@
 
 #### ⭐ Recent stars
 
-- [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (6 days ago)
-- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (3 weeks ago)
+- [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (1 week ago)
+- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (4 weeks ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (2 months ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (2 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 months ago)
