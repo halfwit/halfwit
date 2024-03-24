@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (3 days ago)
+- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (4 days ago)
 - [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (1 week ago)
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (1 month ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (2 months ago)
