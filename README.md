@@ -21,7 +21,7 @@
 
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (1 month ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (1 month ago)
-- [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (1 month ago)
+- [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (2 months ago)
 - [altid/9](https://github.com/altid/9) - 9 client (2 months ago)
 - [altid/altid.github.io](https://github.com/altid/altid.github.io) - Landing Page (5 months ago)
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (3 weeks ago)
+- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (4 weeks ago)
 - [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (1 month ago)
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (1 month ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (3 months ago)
