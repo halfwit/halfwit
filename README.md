@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (1 month ago)
+- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (2 months ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (2 months ago)
 - [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (2 months ago)
 - [altid/9](https://github.com/altid/9) - 9 client (2 months ago)
@@ -36,7 +36,7 @@
 #### 📜 My recent blog posts
 
 - [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (6 months ago)
-- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (7 months ago)
+- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (8 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (8 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (9 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
