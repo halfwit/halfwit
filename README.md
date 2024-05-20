@@ -19,19 +19,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (today)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (2 days ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (2 months ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (3 months ago)
 - [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (3 months ago)
-- [altid/9](https://github.com/altid/9) - 9 client (3 months ago)
 
 #### 🌱 My latest personal projects
 
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix`
 - [halfwit/9hkd](https://github.com/halfwit/9hkd)
 - [halfwit/rc](https://github.com/halfwit/rc) - 9front rc scripts
-- [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik
 
 #### 📜 My recent blog posts
 
