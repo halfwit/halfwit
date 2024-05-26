@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (5 days ago)
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (6 days ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (1 week ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (2 months ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (3 months ago)
