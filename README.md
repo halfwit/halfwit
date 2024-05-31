@@ -21,7 +21,7 @@
 
 - [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (1 week ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (1 week ago)
-- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (2 months ago)
+- [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (3 months ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (3 months ago)
 - [altid/darwin](https://github.com/altid/darwin) - [WIP] Client for Darwin-based devices (3 months ago)
 
@@ -36,7 +36,7 @@
 #### 📜 My recent blog posts
 
 - [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (7 months ago)
-- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (8 months ago)
+- [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (9 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (9 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (10 months ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (3 years ago)
