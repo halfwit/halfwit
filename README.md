@@ -19,7 +19,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (2 days ago)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (3 days ago)
 - [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (3 weeks ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (3 weeks ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (3 months ago)
