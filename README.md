@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (3 days ago)
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (3 days ago)
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (4 days ago)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (4 days ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (1 month ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (3 months ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (4 months ago)
@@ -46,7 +46,7 @@
 - [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (3 months ago)
 - [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (3 months ago)
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (4 months ago)
-- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (5 months ago)
+- [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (6 months ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (6 months ago)
 
 #### 💬 Feedback
