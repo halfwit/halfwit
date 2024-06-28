@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (4 days ago)
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (4 days ago)
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (5 days ago)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (5 days ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (1 month ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (3 months ago)
 - [halfwit/tlssrv](https://github.com/halfwit/tlssrv) - 9front tlssrv for Unix-like systems with dp9ik (4 months ago)
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (7 months ago)
+- [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (8 months ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (9 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (10 months ago)
 - [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (11 months ago)
