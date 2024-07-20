@@ -38,7 +38,7 @@
 - [The POQTEA Is Hot](https://halfwit.github.io/2023/11/01/the-poqtea-is-hot.html) (8 months ago)
 - [Hugo](https://halfwit.github.io/2023/09/04/hugo.html) (10 months ago)
 - [POQTEA, Steeped.](https://halfwit.github.io/2023/08/29/layouts.html) (10 months ago)
-- [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (11 months ago)
+- [My (ideal) Setup](https://halfwit.github.io/2023/07/26/setup.html) (1 year ago)
 - [Searching And Saving With Plumber](https://halfwit.github.io/2020/06/27/searching.html) (4 years ago)
 
 #### ⭐ Recent stars
