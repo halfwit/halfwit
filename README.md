@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (3 weeks ago)
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (3 weeks ago)
+- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (today)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (today)
 - [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (1 month ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (2 months ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (5 months ago)
