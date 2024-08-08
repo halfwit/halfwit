@@ -19,9 +19,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (3 days ago)
-- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (3 days ago)
-- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (5 days ago)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (4 days ago)
+- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (4 days ago)
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (6 days ago)
 - [halfwit/NineSwift](https://github.com/halfwit/NineSwift) - 9p for Swift (2 months ago)
 - [halfwit/drawcpu](https://github.com/halfwit/drawcpu) - Working towards `rcpu -h unix` (5 months ago)
 
@@ -44,7 +44,7 @@
 #### ⭐ Recent stars
 
 - [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (4 months ago)
-- [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (4 months ago)
+- [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (5 months ago)
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (5 months ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (7 months ago)
 - [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (7 months ago)
