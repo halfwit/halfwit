@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (today)
-- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (4 days ago)
-- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (5 days ago)
-- [altid/discord](https://github.com/altid/discord) - Altid service to connect to Discord chat (5 days ago)
-- [altid/irc](https://github.com/altid/irc) - Altid service to connect to IRC chat networks (6 days ago)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (1 day ago)
+- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (5 days ago)
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (6 days ago)
+- [altid/discord](https://github.com/altid/discord) - Altid service to connect to Discord chat (6 days ago)
+- [altid/irc](https://github.com/altid/irc) - Altid service to connect to IRC chat networks (1 week ago)
 
 #### 🌱 My latest personal projects
 
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent stars
 
-- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (4 months ago)
+- [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (5 months ago)
 - [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (5 months ago)
-- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (5 months ago)
+- [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (6 months ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (7 months ago)
-- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (7 months ago)
+- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (8 months ago)
 
 #### 💬 Feedback
 
