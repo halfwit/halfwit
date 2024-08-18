@@ -19,10 +19,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (1 day ago)
-- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (5 days ago)
-- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (6 days ago)
-- [altid/discord](https://github.com/altid/discord) - Altid service to connect to Discord chat (6 days ago)
+- [altid/fs](https://github.com/altid/fs) - Plan9 fs to orchestrate client/service interactions (2 days ago)
+- [altid/libs](https://github.com/altid/libs) - A collection of libraries for use on Altid&#39;s code base (6 days ago)
+- [halfwit/zmk-config](https://github.com/halfwit/zmk-config) (1 week ago)
+- [altid/discord](https://github.com/altid/discord) - Altid service to connect to Discord chat (1 week ago)
 - [altid/irc](https://github.com/altid/irc) - Altid service to connect to IRC chat networks (1 week ago)
 
 #### 🌱 My latest personal projects
