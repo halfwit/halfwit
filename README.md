@@ -43,11 +43,11 @@
 
 #### ⭐ Recent stars
 
+- [adventuresin9/NetworkRecipes](https://github.com/adventuresin9/NetworkRecipes) (today)
 - [maximecb/uvm](https://github.com/maximecb/uvm) - Fun, portable, minimalistic virtual machine. (5 months ago)
 - [jfedor2/pmw3360-breakout](https://github.com/jfedor2/pmw3360-breakout) - Breakout board for PMW3360 optical mouse sensor (5 months ago)
 - [libconfuse/libconfuse](https://github.com/libconfuse/libconfuse) - Small configuration file parser library for C. (6 months ago)
 - [AlTavares/Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using Bonjour (7 months ago)
-- [PingThingsIO/rapid](https://github.com/PingThingsIO/rapid) - Rapid is a modern Go property-based testing library (8 months ago)
 
 #### 💬 Feedback
 
